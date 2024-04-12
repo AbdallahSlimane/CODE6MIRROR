@@ -1,0 +1,9 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../public",
+    "module": "NodeNext",
+    "lib": ["dom", "es6"]
+  },
+  "include": ["**/*.ts"]
+}
