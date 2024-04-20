@@ -2,12 +2,11 @@
   "name": "code-mirror",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "build:client": "tsc -p client/tsconfig.client.json",
     "build:server": "tsc -p tsconfig.json",
-    "build": "npm run build:server && npm run build:client",
-    "start": "node dist/server.js"
+    "start": "parcel client/public/index.html",
+    "build": "parcel build client/public/index.html"
   },
   "keywords": [],
   "author": "",
