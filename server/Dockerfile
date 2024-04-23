@@ -1,16 +1,10 @@
 FROM node:16-alpine
 
-WORKDIR /server
-
+WORKDIR /app
 COPY package*.json ./
 RUN npm install
+COPY . .
 
-COPY tsconfig.json ./
+RUN npm run build
 
-COPY server/src/ ./src/
-
-WORKDIR /server/src
-RUN npx tsc
-
-WORKDIR /server
-CMD ["node", "server.js"]
+CMD ["node", "src/server.js"]
