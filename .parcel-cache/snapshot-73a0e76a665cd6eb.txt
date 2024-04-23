@@ -1,4 +1,4 @@
-7375
+7376
 76C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\fill-range\index.js133574167864118249 0
 132C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Comment.js133574167904294694 0
 90C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\htmlnano\lib\modules\minifyJs.cjs133574167876157404 0
@@ -28,13 +28,13 @@
 88C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\caniuse-lite\data\regions\GN.js133574167929316133 0
 131C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertEllipseToCircle.js133574167904294694 0
 54C:\Users\slima\WebStormProjects\CODE6MIRROR\.gitignore133574160618698660 0
-50C:\Users\slima\WebStormProjects\CODE6MIRROR\client133581008516713351 1
+50C:\Users\slima\WebStormProjects\CODE6MIRROR\client133581010227087767 1
 81C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\picocolors\picocolors.js133574167864118249 0
 114C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\css-select\node_modules\domutils\lib\esm\helpers.d.ts.map133574167905700930 0
 95C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@swc\helpers\cjs\_array_with_holes.cjs133574167868493247 0
 80C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\utility-types\README.md133574167874126123 0
 75C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\proxy-addr\LICENSE133574167889450937 0
-49C:\Users\slima\WebStormProjects\CODE6MIRROR\.idea133581006994462743 1
+49C:\Users\slima\WebStormProjects\CODE6MIRROR\.idea133581020072060231 1
 88C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\codemirror\theme\colorforth.css133574167904138445 0
 80C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\get-intrinsic\.eslintrc133574167861305738 0
 80C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\react-error-overlay\lib133574167866305780 1
@@ -60,7 +60,7 @@
 78C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@types\mime\lite.d.ts133574167898044715 0
 80C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\has-proto\test\index.js133574167864118249 0
 65C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\mdn-data133574167879286355 1
-48C:\Users\slima\WebStormProjects\CODE6MIRROR\dist133574218111558626 1
+48C:\Users\slima\WebStormProjects\CODE6MIRROR\dist133581020828367145 1
 101C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\codemirror\mode\htmlembedded\htmlembedded.js133574167923847575 0
 86C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@mischnic\json-sourcemap\dist133574167870063358 1
 77C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\posthtml-render\dist133574167868805742 1
@@ -1078,6 +1078,7 @@
 88C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\update-browserslist-db\index.js133574167867087007 0
 127C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeMetadata.js133574167911333900 0
 87C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\update-browserslist-db\LICENSE133574167864274516 0
+53C:\Users\slima\WebStormProjects\CODE6MIRROR\README.md133581016511437689 0
 76C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@types\node\vm.d.ts133574167914615242 0
 74C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\tslib\SECURITY.md133574167870063358 0
 97C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@swc\helpers\cjs\_async_to_generator.cjs133574167872251128 0
@@ -6377,7 +6378,7 @@
 110C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@swc\helpers\cjs\_object_without_properties_loose.cjs133574167898044715 0
 82C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@swc\helpers\cjs\_set.cjs133574167900544685 0
 104C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@swc\helpers\cjs\_skip_first_generator_next.cjs133574167900700936 0
-57C:\Users\slima\WebStormProjects\CODE6MIRROR\client\public133574217990653144 1
+57C:\Users\slima\WebStormProjects\CODE6MIRROR\client\public133581020772414358 1
 102C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@swc\helpers\cjs\_tagged_template_literal.cjs133574167902263444 0
 84C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@swc\helpers\cjs\_throw.cjs133574167902419696 0
 94C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@swc\helpers\cjs\_to_property_key.cjs133574167903513427 0
@@ -6655,7 +6656,7 @@
 101C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js133574167880384285 0
 94C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@parcel\runtime-js\lib\helpers\worker133574167898044715 1
 107C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js133574167885071908 0
-68C:\Users\slima\WebStormProjects\CODE6MIRROR\client\public\index.html133574217990653144 0
+68C:\Users\slima\WebStormProjects\CODE6MIRROR\client\public\index.html133581020772414358 0
 82C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@parcel\namer-default\lib133574167888357222 1
 106C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js133574167881790577 0
 105C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js133574167884290535 0
@@ -7368,9 +7369,9 @@
 69C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\.bin\tsc.cmd133574167974866264 0
 69C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\.bin\tsc.ps1133574167974866264 0
 84C:\Users\slima\WebStormProjects\CODE6MIRROR\node_modules\.bin\update-browserslist-db133574167974866264 0
-59C:\Users\slima\WebStormProjects\CODE6MIRROR\dist\index.html133574218111548672 0
 62C:\Users\slima\WebStormProjects\CODE6MIRROR\dist\src\server.js133574202913838318 0
-57C:\Users\slima\WebStormProjects\CODE6MIRROR\client\app.ts133581008516713351 0
+57C:\Users\slima\WebStormProjects\CODE6MIRROR\client\app.ts133581010227087767 0
 65C:\Users\slima\WebStormProjects\CODE6MIRROR\.idea\code-mirror.iml133574173789873901 0
 57C:\Users\slima\WebStormProjects\CODE6MIRROR\.idea\vcs.xml133580979314571274 0
-63C:\Users\slima\WebStormProjects\CODE6MIRROR\.idea\workspace.xml133581006994462743 0
+63C:\Users\slima\WebStormProjects\CODE6MIRROR\.idea\workspace.xml133581020072060231 0
+59C:\Users\slima\WebStormProjects\CODE6MIRROR\dist\index.html133581020828367145 0
